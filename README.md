@@ -14,7 +14,7 @@ Below are the most powerful and resourceful free Bootstrap admin dashboard templ
 - [Metronic - Bootstrap HTML, VueJS](#-metronic)
 - [Velzon - Admin & Dashboard Template](#-velzon)
 
-### DashCode
+### 🎨 DashCode
 
 ![DashCode](https://camo.envatousercontent.com/2a6cb00f0ddf064f82ca141bc3d4d033d71acae8/68747470733a2f2f646f63732e636f64657368617065722e746563682f64617368636f64652f6974656d2d6173736574732f5061676531302e706e67)
 
@@ -23,7 +23,7 @@ DashCode is a most developer-friendly & highly customizable admin dashboard temp
 * [🚀 Live Preview](/html/240201-dashcode/) 
 * [🌏 Browser Support](https://dashcode.codeshaper.tech/index.html) 
 
-### Metronic
+### 🎨 Metronic
 
 ![Metronic](https://keenthemes.com/metronic/assets/media/preview/demos/demo1/light-ltr.png)
 
@@ -35,7 +35,7 @@ A single core framework and long term tool built on top of Bootstrap 5 for deliv
 * [🌏 Browser Support](https://keenthemes.com/metronic/) 
 
 
-### Velzon
+### 🎨 Velzon
 
 ![Velzon](https://camo.envatousercontent.com/c4843dd2134904bfaa20c35a6728335a7d34abde/68747470733a2f2f696d672e7468656d65736272616e642e636f6d2f76656c7a6f6e2f6c61796f7574732e6a7067)
 
