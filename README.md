@@ -43,7 +43,7 @@ Velzon is an admin dashboard template built with Bootstrap v5.3.2, React JS, Rea
 
 **9 Different layouts** are provided as follows, and can be used that suits your project needs.
 
-* [**`vertical | default`**](/html/240202-velzon/v3.0/default/) 
+* [**`default`**](/html/240202-velzon/v3.0/default/) 
 * [**`saas`**](/html/240202-velzon/v3.0/saas/) 
 * [**`minimal`**](/html/240202-velzon/v3.0/minimal/) 
 * [**`interactive`**](/html/240202-velzon/v3.0/interactive/) 
