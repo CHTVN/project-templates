@@ -16,11 +16,11 @@ Below are the most powerful and resourceful free Bootstrap admin dashboard templ
 
 ### 🎨 DashCode
 
-![DashCode](https://camo.envatousercontent.com/2a6cb00f0ddf064f82ca141bc3d4d033d71acae8/68747470733a2f2f646f63732e636f64657368617065722e746563682f64617368636f64652f6974656d2d6173736574732f5061676531302e706e67)
+![DashCode](https://madewithnetworkfra.fra1.digitaloceanspaces.com/spatie-space-production/29690/dashcode.jpg)
 
 DashCode is a most developer-friendly & highly customizable admin dashboard template based on React, Vue-3, Tailwind CSS & Headless UI. It comes with lots of features that make development easier for you.
 
-* [🚀 Live Preview](/html/240201-dashcode/) 
+* [🚀 Live Preview](html/240201-dashcode/) 
 * [🌏 Browser Support](https://dashcode.codeshaper.tech/index.html) 
 
 ### 🎨 Metronic
@@ -31,8 +31,8 @@ The World’s #1 Dashboard Since 2013
 
 A single core framework and long term tool built on top of Bootstrap 5 for delivering limitless highly customized projects
 
-* [🚀 Live Preview](/html/240201-metronic/) 
 * [🌏 Browser Support](https://keenthemes.com/metronic/) 
+* [🚀 Live Preview](html/240201-metronic/) 
 
 
 ### 🎨 Velzon
@@ -43,12 +43,12 @@ Velzon is an admin dashboard template built with Bootstrap v5.3.2, React JS, Rea
 
 **9 Different layouts** are provided as follows, and can be used that suits your project needs.
 
-* [**`default`**](/html/240202-velzon/v3.0/default/) 
-* [**`saas`**](/html/240202-velzon/v3.0/saas/) 
-* [**`minimal`**](/html/240202-velzon/v3.0/minimal/) 
-* [**`interactive`**](/html/240202-velzon/v3.0/interactive/) 
-* [**`creative`**](/html/240202-velzon/v3.0/creative/) 
-* [**`material`**](/html/240202-velzon/v3.0/material/) 
-* [**`modern`**](/html/240202-velzon/v3.0/modern/) 
-* [**`galaxy`**](/html/240202-velzon/v3.0/galaxy/) 
-* [**`corporate`**](/html/240202-velzon/v3.0/corporate/) 
+* [**`default`**](html/240202-velzon/v3.0/default/) 
+* [**`saas`**](html/240202-velzon/v3.0/saas/) 
+* [**`minimal`**](html/240202-velzon/v3.0/minimal/) 
+* [**`interactive`**](html/240202-velzon/v3.0/interactive/) 
+* [**`creative`**](html/240202-velzon/v3.0/creative/) 
+* [**`material`**](html/240202-velzon/v3.0/material/) 
+* [**`modern`**](html/240202-velzon/v3.0/modern/) 
+* [**`galaxy`**](html/240202-velzon/v3.0/galaxy/) 
+* [**`corporate`**](html/240202-velzon/v3.0/corporate/) 
